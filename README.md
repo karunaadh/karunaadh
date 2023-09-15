@@ -1,16 +1,14 @@
-### Hi there 👋
+### Karuna Adhikari
+Second-year Engineering student with a strong passionate about exploring new technologies and creating solutions to real-world problems.
 
-<!--
-**karunaadh/karunaadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = "center">
+[![Portfolio Button]][Shield]
+<br>
+[![LinkedIn Button]][Shield]
+</div>
 
-Here are some ideas to get you started:
+<!---------------------------------------------------------------------------->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio Button]: https://img.shields.io/badge/Portfolio-52D6E1
+[LinkedIn Button]: https://img.shields.io/badge/Linkedin-8A2BE2
+
