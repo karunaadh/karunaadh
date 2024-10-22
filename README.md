@@ -1,5 +1,5 @@
 ### Karuna Adhikari
-I'm a second-year Engineering student with a strong passion for exploring new technologies and creating solutions to real-world problems.
+I'm a third-year Engineering student with a strong passion for exploring new technologies and creating solutions to real-world problems.
 ___
 ## Links:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://karunaadh.netlify.app)
